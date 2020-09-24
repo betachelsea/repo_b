@@ -1,1 +1,2 @@
-test@repo_a
+test@repo_b
+branch_b
